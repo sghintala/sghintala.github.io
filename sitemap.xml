@@ -12,4 +12,8 @@
     <loc>https://sghintala.github.io/blog/delivery-pipeline-is-a-product.html</loc>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://sghintala.github.io/blog/scaling-cicd-for-a-monorepo.html</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
